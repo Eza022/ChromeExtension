@@ -8,7 +8,7 @@ function translate() {
       return;
     }
   
-    // Replace 'YOUR_API_KEY' with your actual Google Cloud Platform API key
+    // API key
     const apiKey = 'trnsl.1.1.20160812T144209Z.b92c44a2b3973f9e.2cbac18d23ff1aa107e58b09a0a58d0b70151193';
   
     // Using the Google Translate API
